@@ -1,0 +1,15 @@
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+.App:not(.amazon_header):not(.catagory_filter){
+  background-color: #e6e4e4;
+}
+.app{
+  height: 100dvh;
+  width: 100dvw;
+  position: relative;
+}
